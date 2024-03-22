@@ -1,13 +1,3 @@
-/*
-    Sudoku.js
-    ---------
-
-    A Sudoku puzzle generator and solver JavaScript library.
-
-    Please see the README for more details.
-    https://github.com/robatron/sudoku.js
-*/
-
 //(function(root){
 //var sudoku = root.sudoku = {};  // Global reference to the sudoku library
 var sudoku = {};
